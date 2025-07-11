@@ -15,13 +15,13 @@
 <div class="container text-center nav-monk">
   <div class="row">
     <div class="col" style="color: #d3d3d3;">
-        <a href="./foodmenu.php" class="font-nav">< เมนูอาหาร</a>
+        <a href="./foodrec.php" class="font-nav">< เมนูแนะนำ</a>
     </div>
     <div class="col">
-      เมนูแนะนำ
+      เมนูของหวาน
     </div>
     <div class="col" style="color: #d3d3d3; ">
-      <a href="./foodsweet.php" class="font-nav">เมนูของหวาน ></a>
+      <a href="./drinks.php" class="font-nav">เมนูเครื่องดื่ม ></a>
     </div>
   </div>
 </div>
@@ -31,10 +31,10 @@
     <!-- การ์ด 1 -->
     <div class="col-6 col-md-3 d-flex justify-content-center">
       <a href="" class="card align-items-center menu-pic border-0 food-pic" style="width: 17rem; border-radius: 25px;">
-        <img src="https://www.wendys.com/sites/default/files/styles/max_650x650/public/2021-05/daves-double.png?itok=0LISzLWe" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
+        <img src="https://static.vecteezy.com/system/resources/thumbnails/049/159/956/small_2x/deliciously-transparent-blueberry-cheesecake-dessert-png.png" class="card-img-top mt-3" style="width: 230px;" height="200px" alt="...">
         <div class="card-body">
-          <p class="food-font">Double Cheese Burger</p>
-          <p class="food-font1">Price 40 ฿</p>
+          <p class="food-font">Blueberry CheeseCake</p>
+          <p class="food-font1">Price 45 ฿</p>
         </div>
       </a>
     </div>
@@ -42,37 +42,36 @@
     <!-- การ์ด 2 -->
     <div class="col-6 col-md-3 d-flex justify-content-center">
       <a href="" class="card align-items-center menu-pic border-0 food-pic" style="width: 17rem; border-radius: 25px; ">
-        <img src="https://static.vecteezy.com/system/resources/previews/025/062/054/non_2x/french-fries-on-white-bowl-isolated-on-transparent-background-fried-fast-food-snack-isolated-food-photography-junk-food-fried-potatoes-free-png.png" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
+        <img src="https://oberlaa-wien.at/wp-content/uploads/2020/04/erdbeeroberstorte_2.png" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
         <div class="card-body">
-          <p class="food-font">French Fires</p>
-          <p class="food-font1">Price 80 ฿</p>
+          <p class="food-font">Strawberry Cake</p>
+          <p class="food-font1">Price 45 ฿</p>
         </div>
       </a>
     </div>
 
     <!-- การ์ด 3 -->
     <div class="col-6 col-md-3 d-flex justify-content-center">
-      <a href="" class="card align-items-center menu-pic border-0 food-pic" style="width: 17rem; border-radius: 25px; ">
-        <img src="https://static.vecteezy.com/system/resources/thumbnails/023/450/138/small_2x/side-view-of-hot-latte-coffee-with-heart-latte-art-created-with-generative-ai-png.png" class="card-img-top mt-3" style="width: 220px;" height="200px" alt="...">
+      <a href="https://www.youtube.com/watch?v=8RTjOrX8PlI&t=2847s" class="card align-items-center menu-pic border-0 food-pic" style="width: 17rem; border-radius: 25px;">
+        <img src="https://www.delifrance-eshop.sg/cdn/shop/files/delifrance_blueberry_muffin_crumble_closeup.png?v=1741017735&width=800" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
         <div class="card-body">
-          <p class="food-font">Latte</p>
-          <p class="food-font1">Price 35 ฿</p>
+          <p class="food-font">Blueberry Muffin</p>
+          <p class="food-font1">Price 30 ฿</p>
         </div>
       </a>
     </div>
 
     <!-- การ์ด 4 -->
     <div class="col-6 col-md-3 d-flex justify-content-center">
-      <a hred="" class="card align-items-center menu-pic border-0 food-pic" style="width: 17rem; border-radius: 25px; ">
-        <img src="https://assets.noshu.com/uploads/2022/03/Noshu-BrownieMix-Hero-700px.png" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
+      <a href="" class="card align-items-center menu-pic border-0 food-pic" style="width: 17rem; border-radius: 25px; ">
+        <img src="https://cdn.discordapp.com/attachments/1159157476478955553/1393332600302604450/Screenshot_2025-07-12_034529-removebg-preview.png?ex=6872c99a&is=6871781a&hm=aee0a9e5083d9bdfcf8e239c455c732305209f9d11fdbfdf1cff949dc02e9326&" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
         <div class="card-body">
-          <p class="food-font">Brownnie</p>
-          <p class="food-font1">Price 50 ฿</p>
+          <p class="food-font">Lemon Meringue Cake</p>
+          <p class="food-font1">Price 40 ฿</p>
+          <p></p>
         </div>
       </a>
     </div>
-  </div>
-</div>
 
 <div class="container mt-4">
   <div class="row justify-content-center g-5 " >
@@ -80,22 +79,22 @@
     <!-- การ์ด 5 -->
     <div class="col-6 col-md-3 d-flex justify-content-center">
       <a href="" class="card align-items-center menu-pic border-0 food-pic" style="width: 17rem; border-radius: 25px;">
-        <img src="https://png.pngtree.com/png-vector/20240624/ourmid/pngtree-fried-rice-with-basil-minced-pork-and-egg-thai-food-transparent-png-image_12841981.png" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
+        <img src="https://i0.wp.com/kuke.my/wp-content/uploads/2020/03/red-carpet-diva-slice2-e1599482706703.png?fit=600%2C600&ssl=1" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
         <div class="card-body">
-          <p class="food-font">Pad Kra Pao Mhu</p>
-          <p class="food-font1">Price 60 ฿</p>
-        </div>
+          <p class="food-font">Red Velvet cake</p>
+          <p class="food-font1">Price 45 ฿</p>
+        </div></a>
+      
       </a>
     </div>
 
     <!-- การ์ด 6 -->
     <div class="col-6 col-md-3 d-flex justify-content-center">
       <a href="" class="card align-items-center menu-pic border-0 food-pic" style="width: 17rem; border-radius: 25px; ">
-        <img src="https://img.wongnai.com/p/256x256/2025/01/18/970d6273045c4b9db8cb9b669514c06b.jpg" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
+        <img src="https://cdn.discordapp.com/attachments/1159157476478955553/1393333985375031367/Screenshot_2025-07-12_035122-removebg-preview.png?ex=6872cae5&is=68717965&hm=7a0b7ad52fb43af8f1c7b067a81133fa659bc18d85dcb22bf62aaa36da2b610e&" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
         <div class="card-body">
-          <p class="food-font">Omlette with Rice</p>
-          <p class="food-font1">Price 30 ฿</p>
-          <p></p>
+          <p class="food-font">Coconut Cake</p>
+          <p class="food-font1">Price 45 ฿</p>
         </div>
       </a>
     </div>
@@ -103,10 +102,10 @@
     <!-- การ์ด 7 -->
     <div class="col-6 col-md-3 d-flex justify-content-center">
       <a href="" class="card align-items-center menu-pic border-0 food-pic" style="width: 17rem; border-radius: 25px; ">
-        <img src="https://www.7-eleven.ca/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fbltbb619fd5c667ba2d%2Fblt0bca16d59fb153f3%2F67ad604170ce63843238ab5c%2FPortuguese-Egg-Tart-Product-Card.png&w=3840&q=75" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
+        <img src="https://assets.noshu.com/uploads/2022/03/Noshu-BrownieMix-Hero-700px.png" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
         <div class="card-body">
-          <p class="food-font">Egg Tart</p>
-          <p class="food-font1">Price 25 ฿</p>
+          <p class="food-font">Brownnie</p>
+          <p class="food-font1">Price 50 ฿</p>
         </div>
       </a>
     </div>
@@ -114,13 +113,13 @@
     <!-- การ์ด 8 -->
     <div class="col-6 col-md-3 d-flex justify-content-center">
       <a href="" class="card align-items-center menu-pic border-0 food-pic" style="width: 17rem; border-radius: 25px; ">
-        <img src="https://png.pngtree.com/png-vector/20240329/ourmid/pngtree-iced-mocha-freshness-dessert-refreshing-png-image_12063939.png" class="card-img-top mt-3" style="width: 150px;" height="200px" alt="...">
+        <img src="https://www.7-eleven.ca/_next/image?url=https%3A%2F%2Fimages.contentstack.io%2Fv3%2Fassets%2Fbltbb619fd5c667ba2d%2Fblt0bca16d59fb153f3%2F67ad604170ce63843238ab5c%2FPortuguese-Egg-Tart-Product-Card.png&w=3840&q=75" class="card-img-top mt-3" style="width: 150px;" height="200px" alt="...">
         <div class="card-body">
-          <p class="food-font">Mocca</p>
-          <p class="food-font1">Price 35 ฿</p>
+          <p class="food-font">Egg Tart</p>
+          <p class="food-font1">Price 25 ฿</p>
         </div>
       </a>
-    </div>
+    </div=>
   </div>
 </div>
 

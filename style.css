@@ -166,3 +166,9 @@ background-color: var(--button-color);
   text-decoration: none !important;
   transition: background-color 0.3s ease;
 }
+
+.food-pic {
+  color: #000000 !important;
+  text-decoration: none !important;
+  transition: background-color 0.3s ease;
+}

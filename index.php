@@ -20,7 +20,7 @@
       <div class="card align-items-center not-menu-pic" style="width: 15rem; border: 3px solid; border-radius: 25px; ">
         <img src="./assets/img/recom.png" class="card-img-top mt-3" style="width: 200px;" alt="...">
         <div class="card-body">
-          <a href="./FoodRec.php" class="custom-button">เมนูแนะนำ</a>
+          <a href="./foodrec.php" class="custom-button">เมนูแนะนำ</a>
         </div>
       </div>
     </div>
@@ -30,7 +30,7 @@
       <div class="card align-items-center not-menu-pic" style="width: 15rem; border: 3px solid; border-radius: 25px; ">
         <img src="./assets/img/burger (1).png" class="card-img-top mt-3" style="width: 200px;" alt="...">
         <div class="card-body">
-          <a href="#" class="custom-button">รายการอาหาร</a>
+          <a href="./foodmenu.php" class="custom-button">รายการอาหาร</a>
         </div>
       </div>
     </div>
@@ -40,7 +40,7 @@
       <div class="card align-items-center not-menu-pic" style="width: 15rem; border: 3px solid; border-radius: 25px; ">
         <img src="./assets/img/cake.png" class="card-img-top mt-3" style="width: 200px;" alt="...">
         <div class="card-body">
-          <a href="#" class="custom-button">ของหวาน</a>
+          <a href="./foodsweet.php" class="custom-button">ของหวาน</a>
         </div>
       </div>
     </div>
@@ -50,7 +50,7 @@
       <div class="card align-items-center not-menu-pic" style="width: 15rem; border: 3px solid; border-radius: 25px; ">
         <img src="./assets/img/coffee-cup.png" class="card-img-top mt-3" style="width: 200px;" alt="...">
         <div class="card-body">
-          <a href="#" class="custom-button">เครื่องดื่ม</a>
+          <a href="./drinks.php" class="custom-button">เครื่องดื่ม</a>
         </div>
       </div>
     </div>
