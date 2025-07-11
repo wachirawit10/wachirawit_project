@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Londrina+Solid:wght@100;300;400;900&family=Noto+Sans+Thai:wght@100..900&display=swap');
+
+:root{
+    --primary-color:#C58940;
+    --secondary-color:#FAEAB1;
+    --thrid-color:#E5BA73;
+    --button-color:#FF853D;
+    --secondary-font: "Mali", cursive;
+    --primary-font: "Londrina Solid", sans-serif;
+    
+}
+
+*{
+    font-family: var(--secondary-font);
+}
+.nav-color{
+    background-color: var(--secondary-color);
+}
+
+.navbar{
+    background-color: var(--thrid-color);
+}
+
+.table-number{
+    background-color: var(--primary-color);
+    padding: 12px 24px; border-radius: 12px; font-size: 20px; font-weight: bold;
+
+}
+.body{
+    background-color: #FFF7D1;
+}
+
+.container{
+    background-color: #FFF7D1;
+      width: 360px;
+      margin: 0 auto;
+      padding: 20px;
+      position: relative;
+      box-sizing: border-box;
+    }
+
+.MenuH1 {
+      font-size:100px;
+      text-align: center;
+      margin-top: 20px;
+      margin-bottom: 30px;
+      font-family: var(--primary-font) !important; 
+      letter-spacing: 12px;
+      -webkit-text-stroke: 3px #09105A;
+      color: #ffffff;
+      
+    }
+
+.table-number {
+  background-color: var(--primary-color);       /* สีพื้นหลัง */
+  padding: 12px 24px;           /* ระยะห่างด้านใน */
+  border-radius: 20px;
+  color: #ffffff;          /* ความโค้งของขอบ */
+  font-size: 30px;              /* ขนาดตัวหนังสือ */
+  font-weight: bold;            /* ตัวหนา */
+  font-family: var(--primary-font) !important; 
+    -webkit-text-stroke: 1px #000000;                           /* ทำให้ขนาดปรับตามเนื้อหา */
+  text-align: center;
+  
+}
+/*border-radius ใช้เป็น 35*/
+
+.forimg{
+    border-radius: 35px;
+}
+
+.button-click{
+background-color: var(--button-color);
+ border-radius: 20px; 
+}
+
+.realcard {
+     background-color: var(--primary-color);
+     border-radius: 100px;    
+     margin-left: 30px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    
+}
+
+.floating-circle {
+    background-color: #C58940;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    object-fit: cover;
+    z-index: 9999;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+.button-menu {
+    background-color: var(--button-color);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.custom-button {
+  background-color: var(--button-color);
+  color: #000000;
+  padding: 15px 15px;
+  text-decoration: none;
+  display: inline-block;
+  /*margin-left: 35px;*/
+  font-size: 24px;
+  border-radius: 15px;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.custom-button:hover {
+  background-color: #ffa26d;
+  color: #000000 !important;
+  text-decoration: none !important;
+}
+
