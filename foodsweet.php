@@ -64,9 +64,9 @@
     <!-- การ์ด 4 -->
     <div class="col-6 col-md-3 d-flex justify-content-center">
       <a href="" class="card align-items-center menu-pic border-0 food-pic" style="width: 17rem; border-radius: 25px; ">
-        <img src="https://cdn.discordapp.com/attachments/1159157476478955553/1393332600302604450/Screenshot_2025-07-12_034529-removebg-preview.png?ex=6872c99a&is=6871781a&hm=aee0a9e5083d9bdfcf8e239c455c732305209f9d11fdbfdf1cff949dc02e9326&" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
+        <img src="https://images.squarespace-cdn.com/content/v1/538500e4e4b0fa9e95efc7b9/1673374066417-USKQB6MH5WWQQPCZTKUQ/Pucker+Up+Lemon+Cup+Cake+Slice2.png?format=1000w" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
         <div class="card-body">
-          <p class="food-font">Lemon Meringue Cake</p>
+          <p class="food-font">Lemon Cake</p>
           <p class="food-font1">Price 40 ฿</p>
           <p></p>
         </div>
@@ -91,7 +91,7 @@
     <!-- การ์ด 6 -->
     <div class="col-6 col-md-3 d-flex justify-content-center">
       <a href="" class="card align-items-center menu-pic border-0 food-pic" style="width: 17rem; border-radius: 25px; ">
-        <img src="https://cdn.discordapp.com/attachments/1159157476478955553/1393333985375031367/Screenshot_2025-07-12_035122-removebg-preview.png?ex=6872cae5&is=68717965&hm=7a0b7ad52fb43af8f1c7b067a81133fa659bc18d85dcb22bf62aaa36da2b610e&" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
+        <img src="https://static.vecteezy.com/system/resources/previews/054/798/164/non_2x/delicious-slice-of-coconut-cake-with-creamy-frosting-and-toasted-coconut-flakes-isolated-on-a-transparent-background-coconut-cake-slice-isolated-on-transparent-background-free-png.png" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
         <div class="card-body">
           <p class="food-font">Coconut Cake</p>
           <p class="food-font1">Price 45 ฿</p>
