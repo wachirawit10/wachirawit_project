@@ -30,7 +30,7 @@
 
     <!-- การ์ด 1 -->
     <div class="col-6 col-md-3 d-flex justify-content-center">
-      <a href="" class="card align-items-center menu-pic border-0 food-pic" style="width: 17rem; border-radius: 25px;">
+      <a href="./FoodDetail1.php" class="card align-items-center menu-pic border-0 food-pic" style="width: 17rem; border-radius: 25px;">
         <img src="https://www.wendys.com/sites/default/files/styles/max_650x650/public/2021-05/daves-double.png?itok=0LISzLWe" class="card-img-top mt-3" style="width: 200px;" height="200px" alt="...">
         <div class="card-body">
           <p class="food-font">Double Cheese Burger</p>
@@ -124,7 +124,25 @@
   </div>
 </div>
 
+  <!-- ถ้ามีพารามิเตอร์ added=1 -->
+<?php if (isset($_GET['added']) && $_GET['added'] == 1): ?>
+  <div class="position-fixed top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center modal-blur" id="successModal" style="z-index: 9999;">
+    <div class="custom-modal shadow">
+      <h5>เพิ่มลงตะกร้าสำเร็จ</h5>
+      <button type="button" class="btn-confirm" onclick="closeModal()">ตกลง</button>
+    </div>
+  </div>
+<?php endif; ?>
+
+<script>
+  function closeModal() {
+    const url = new URL(window.location);
+    url.searchParams.delete('added');
+    window.location.href = url; // redirect หน้าปัจจุบันโดยไม่มีพารามิเตอร์
+  }
+</script>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
 </body>
-<footer><img src="./assets/img/cart-fix.png" class="floating-circle" alt="Circle Image"></footer>
+<footer><?php include "./components/bottomcart.php"?></footer>
 </html>
