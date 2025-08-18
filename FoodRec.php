@@ -128,7 +128,7 @@
 <?php if (isset($_GET['added']) && $_GET['added'] == 1): ?>
   <div class="position-fixed top-0 start-0 w-100 h-100 d-flex align-items-center justify-content-center modal-blur" id="successModal" style="z-index: 9999;">
     <div class="custom-modal shadow">
-      <h5>เพิ่มลงตะกร้าสำเร็จ</h5>
+      <p class="modal-text">เพิ่มลงตะกร้าสำเร็จ</p>
       <button type="button" class="btn-confirm" onclick="closeModal()">ตกลง</button>
     </div>
   </div>
